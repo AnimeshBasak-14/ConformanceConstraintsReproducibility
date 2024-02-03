@@ -1,4 +1,5 @@
-# Reproduction Steps
+# ConformanceConstraintsReproducibility
+## Reproduction Steps
 - Requires Python version Python 3.9.5 (Python 3.7 and 3.8 should also work, but we recommend 3.9.5)
 
 ### (Step 1) Initial setup
@@ -104,4 +105,3 @@ pdflatex paper
 ```
 
 You should see the paper reproduced as `paper.pdf` within the directory `Paper`.
-# ConformanceConstraintsReproducibility
